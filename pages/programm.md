@@ -1,10 +1,10 @@
 ---
 layout: page
 show_meta: false
-title: "Tagesordnung"
+title: "Programm"
 subheadline: "Agenda"
-teaser: "Tagesordnung, wie sie bisher geplant ist. Moderation durch Bernard Könnecek und Michael Thoma"
-permalink: "/tagesordnung/"
+teaser: "Tagesordnung, wie sie bisher geplant ist. Moderation durch Bernard Könnecke und Michael Thoma"
+permalink: "/programm/"
 ---
 
 <span style="color:#009F9B">**10:00 – 10:30 Uhr**</span> **Ankommen**
