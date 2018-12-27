@@ -6,10 +6,11 @@
 #
 layout: frontpage
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "4. Berliner Fachtag geschlechterreflektierter Jungen\*arbeit"
+  url: 'https://fachtag-jungen-sternchen-arbeit.github.io/berliner-fachtag/getting-started/'
+  text: '**Wann:** 27. März 2019, 10:00 Uhr – 16:30 Uhr
+**Wo:** Haus der Jugend Anne Frank  
+Mecklenburgische Str. 15, 10713 Berlin'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
