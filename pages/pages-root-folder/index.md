@@ -7,6 +7,7 @@
 layout: frontpage
 widget1:
   title: "4. Berliner Fachtag geschlechterreflektierter Jungen&#42;arbeit"
+  image: widget-1-302x182.jpg
   url: 'https://fachtag-jungen-sternchen-arbeit.github.io/berliner-fachtag/getting-started/'
   text: '<strong>Wann:</strong> 27. März 2019, 10:00 Uhr – 16:30 Uhr<br>
 <strong>Wo:</strong> Haus der Jugend Anne Frank<br>
