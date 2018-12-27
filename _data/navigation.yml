@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: Fachtag
-  url: "/getting-started/"
-  side: left
-
 - title: Programm
   url: "/programm/"
   side: left
@@ -24,17 +20,6 @@
     url: "/design/post-left-sidebar/"
   - title: "Workshop 5"
     url: "/design/post-right-sidebar/"
-
-- title: "Anmeldung"
-  url: "/headers/"
-  side: left
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Kontakt"
   url: "/contact/"
