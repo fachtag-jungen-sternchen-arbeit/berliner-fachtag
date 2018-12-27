@@ -25,8 +25,8 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://fachtag-jungen-sternchen-arbeit.github.io'
-baseurl: '/berliner-fachtag'
+url: 'https://jungen-sternchen-arbeit.github.io'
+baseurl: '/berliner-fachtag2019'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
