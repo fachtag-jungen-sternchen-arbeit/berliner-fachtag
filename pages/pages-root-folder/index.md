@@ -8,20 +8,22 @@ layout: frontpage
 widget1:
   title: "4. Berliner Fachtag geschlechterreflektierter Jungen&#42;arbeit"
   image: widget1.jpg
-  url: 'https://fachtag-jungen-sternchen-arbeit.github.io/berliner-fachtag/getting-started/'
+  url: 'https://fachtag-jungen-sternchen-arbeit.github.io/berliner-fachtag/fachtag/'
   text: '<strong>Wann:</strong> 27. März 2019, 10:00 Uhr – 16:30 Uhr<br>
 <strong>Wo:</strong> Haus der Jugend Anne Frank<br>
 Mecklenburgische Str. 15, 10713 Berlin'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: "Programm"
+  url: 'https://fachtag-jungen-sternchen-arbeit.github.io/berliner-fachtag/programm/'
+  text: 'Hier gehts zum geplanten Programm und den Workshops'
   image: widget2.jpg
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Anmeldung"
+  url: 'https://fachtag-jungen-sternchen-arbeit.github.io/berliner-fachtag/anmeldung/'
   image: widget3.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'Bitte melden Sie sich über das Anmeldeformular an.<br>
+  <a href="https://goo.gl/forms/RwSkBJOwdzDOQY943">https://goo.gl/forms/RwSkBJOwdzDOQY943</a><br>
+  Anmeldeschluß ist der 15. Februar 2019<br>'
 #
 # Use the call for action to show a button on the frontpage
 #
