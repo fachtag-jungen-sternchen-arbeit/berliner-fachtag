@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Fachtag
+  url: "/getting-started/"
+  side: left
+
 - title: Agenda
   url: "/getting-started/"
   side: left
@@ -32,6 +36,6 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Contact"
+- title: "Kontakt"
   url: "/contact/"
   side: right
