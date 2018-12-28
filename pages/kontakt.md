@@ -3,7 +3,7 @@ layout: page
 title: "Kontakt"
 meta_title: "Ansprechpartner"
 subheadline: "Ansprechpartner"
-teaser: "Bei Fragen kontaktieren Sie unseren Ansprechpartner:"
+teaser: "Bei Fragen kontaktieren Sie bitte unseren Ansprechpartner:"
 permalink: "/kontakt/"
 ---
 Patryk Piotrowski  
