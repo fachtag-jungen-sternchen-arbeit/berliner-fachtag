@@ -1,12 +1,18 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Kontakt"
+meta_title: "Ansprechpartner"
+subheadline: "Ansprechpartner"
+teaser: "Bei Fragen kontaktieren Sie unseren Ansprechpartner:"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Patryk Piotrowski  
+Bezirksamt Neukölln  
+Karl-Marx-Str. 83  
+12043 Berlin  
 
+Abt. Jugend und Gesundheit  
+Jugendamt Fachsteuerung – FS 100 Projektassistenz, Öffentlichkeitsarbeit  
 
- [1]: http://www.wufoo.com/
+030-90239-3001  
+patryk.piotrowski[at]bezirksamt-neukoelln.de
