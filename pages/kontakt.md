@@ -4,7 +4,7 @@ title: "Kontakt"
 meta_title: "Ansprechpartner"
 subheadline: "Ansprechpartner"
 teaser: "Bei Fragen kontaktieren Sie unseren Ansprechpartner:"
-permalink: "/contact/"
+permalink: "/kontakt/"
 ---
 Patryk Piotrowski  
 Bezirksamt Neukölln  
