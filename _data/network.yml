@@ -1,21 +1,23 @@
 - menu_name: "Dankeschön"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
-
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
-
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+- name: "Jugendamt Neukölln"
+  url: "http://www.neukoelln-jugend.de/redsys/index.php"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Jugendamt Neukölln"
+
+- name: "Jugendamt Charlottenburg-Wilmersdorf"
+  class: "sitemap-link"
+  title: "Jugendamt Charlottenburg-Wilmersdorf"
+
+- name: "Jugendamt Friedrichshain-Kreuzberg"
+  class: "sitemap-link"
+  title: "Jugendamt Friedrichshain-Kreuzberg"
+
+- name: "Jugendamt Reinickendorf"
+  class: "sitemap-link"
+  title: "Jugendamt Reinickendorf"
+  
+- name: "Demokratie in der Mitte"
+  url: "http://demokratie-in-der-mitte.de/"
+  class: "sitemap-link"
+  title: "Partnerschaften für Demokratie in Wedding und Moabit"
