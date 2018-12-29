@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Anmeldung"
 subheadline: "Anmeldung zum Fachtag"
-teaser: "Bitte melden Sie sich über das Anmeldeformular an."
+teaser: "Bitte melden Sie sich &uuml;ber das Anmeldeformular an."
 permalink: "/anmeldung/"
 ---
 Das Anmeldeformular finden Sie unter [https://goo.gl/forms/RwSkBJOwdzDOQY943](https://goo.gl/forms/RwSkBJOwdzDOQY943).  
