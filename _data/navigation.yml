@@ -3,7 +3,7 @@
   side: left
   
 - title: Fachtag
-  url: "/getting-started/"
+  url: "/fachtag/"
   side: left
 
 - title: Programm
@@ -11,22 +11,22 @@
   side: left
 
 - title: "Workshops"
-  url: "/design/"
+  url: "/workshops/"
   side: left
   dropdown:
   - title: "Workshop 1"
-    url: "/design/grid/"
+    url: "/workshops/workshop1/"
   - title: "Workshop 2"
-    url: "/design/typography/typography/"
+    url: "/workshops/workshop2/"
   - title: "Workshop 3"
-    url: "/design/page/"
+    url: "/workshops/workshop3/"
   - title: "Workshop 4"
-    url: "/design/post-left-sidebar/"
+    url: "/workshops/workshop4/"
   - title: "Workshop 5"
-    url: "/design/post-right-sidebar/"
+    url: "/workshops/workshop5/"
 
 - title: "Anmeldung"
-  url: "/headers/"
+  url: "/anmeldung/"
   side: left
 
 - title: "Kontakt"
