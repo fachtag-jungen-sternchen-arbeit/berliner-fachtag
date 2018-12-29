@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Workshop 5: Geschlechtergerechte Berufsorientierung in der Jungen&#42;arbeit"
-subheadline:  "Michael Hackert von dissens e.V."
-teaser: "Daniel Holtermann von dissens e.V."
+subheadline:  "Daniel Holtermann von dissens e.V."
+teaser: "Kurze Beschreibung der Workshop-Inhalte."
 categories:
     - Workshops
 tags:
