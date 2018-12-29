@@ -8,4 +8,4 @@ permalink: "/anmeldung/"
 ---
 Das Anmeldeformular finden Sie unter [https://goo.gl/forms/RwSkBJOwdzDOQY943](https://goo.gl/forms/RwSkBJOwdzDOQY943).  
 Anmeldeschluß ist der 15. Februar 2019.  
-Bei Fragen nehmen Sie gerne [Kontakt auf](/kontakt/).
+Bei Fragen nehmen Sie gerne [Kontakt auf](/berliner-fachtag2019/kontakt/).
