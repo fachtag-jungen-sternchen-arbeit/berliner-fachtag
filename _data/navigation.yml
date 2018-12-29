@@ -14,8 +14,8 @@
   url: "/workshops/"
   side: left
   dropdown:
-  - title: "Workshop 1"
-    url: "/workshops/workshop1/"
+  - title: "Einstieg"
+    url: "/workshops/wie-fange-ich-an/"
   - title: "Workshop 2"
     url: "/workshops/workshop2/"
   - title: "Workshop 3"
