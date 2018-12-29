@@ -4,9 +4,9 @@ title:  "Workshop 1: Einsteiger&#42;innen „Wie fange ich an“"
 subheadline:  "Peter Bienwald, LFS Jungen*arbeit Sachsen"
 teaser: "Kurze Beschreibung der Workshop-Inhalte."
 categories:
-    - workshops
+    - Workshops
 tags:
-    - workshops
+    - Workshops
     - Einstieg
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
@@ -19,4 +19,4 @@ header:
 ### All Workshops 
 {: .t60 }
 
-{% include list-posts tag='workshops' %}
+{% include list-posts tag='Workshops' %}
