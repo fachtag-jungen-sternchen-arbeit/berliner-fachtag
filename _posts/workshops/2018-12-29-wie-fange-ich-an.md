@@ -16,7 +16,7 @@ header:
 <!--more-->
 
 
-### All Workshops 
+### Alle Workshops 
 {: .t60 }
 
 {% include list-posts tag='Workshops' %}
