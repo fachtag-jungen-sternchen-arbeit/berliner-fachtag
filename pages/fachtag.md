@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "4. Berliner Fachtag geschlechterreflektierter Jungen\*arbeit"
+title: "4. Berliner Fachtag geschlechterreflektierter Jungen&#42;arbeit"
 subheadline: "Infos"
 teaser: "Ort und Zeit"
 permalink: "/fachtag/"
