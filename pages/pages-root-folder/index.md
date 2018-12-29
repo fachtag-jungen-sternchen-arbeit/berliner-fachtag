@@ -15,7 +15,7 @@ Mecklenburgische Str. 15, 10713 Berlin'
 widget2:
   title: "Programm"
   url: 'https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/programm/'
-  text: 'Hier gehts zum geplanten <a href="/berliner-jungentag2019/programm/">Programm</a>  und den <a href="/berliner-jungentag2019/workshops/">Workshops</a>'
+  text: 'Hier gehts zum geplanten <a href="https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/programm/">Programm</a>  und den <a href="https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/workshops/">Workshops</a>'
   image: widget2.jpg
 widget3:
   title: "Anmeldung"
