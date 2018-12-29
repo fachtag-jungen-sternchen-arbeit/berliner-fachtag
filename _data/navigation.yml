@@ -16,8 +16,8 @@
   dropdown:
   - title: "Einstieg"
     url: "/workshops/wie-fange-ich-an/"
-  - title: "Workshop 2"
-    url: "/workshops/workshop2/"
+  - title: "Sport"
+    url: "/workshops/sport/"
   - title: "Workshop 3"
     url: "/workshops/workshop3/"
   - title: "Workshop 4"
