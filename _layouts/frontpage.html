@@ -56,10 +56,11 @@ format: frontpage
 {% comment %}
 *
 * First check, if there are any posts at all
+* For now, do not display any posts
 *
 {% endcomment %}
 
-{% unless site.posts == empty %}
+{% unless true %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
