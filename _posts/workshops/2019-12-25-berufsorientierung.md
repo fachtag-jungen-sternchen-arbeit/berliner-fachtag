@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Workshop 5: Geschlechtergerechte Berufsorientierung in der Jungen&#42;arbeit"
-subheadline:  "Daniel Holtermann von dissens e.V."
+subheadline:  'Daniel Holtermann von <a href="https://www.dissens.de/">dissens e.V.</a>'
 teaser: "Die Berufsorientierung stößt auf großes Interesse bei Jungen*, doch
 wie kann diese geschlechtergerecht gestaltet werden? Am Beispiel
 des Projektes „Boys in Care - Jungen* stärken bei der Wahl eines
