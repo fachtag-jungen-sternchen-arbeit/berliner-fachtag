@@ -10,4 +10,11 @@ permalink: "/fachtag/"
 **Wo:** Haus der Jugend Anne Frank  
 Mecklenburgische Str. 15, 10713 Berlin  
 
-Eine Veranstaltung der [Berliner Fachrunde Jungen\*arbeit](/berliner-fachtag2019/fachrunde)
+Eine Veranstaltung der [Berliner Fachrunde Jungen\*arbeit](/berliner-fachtag2019/fachrunde) in Kooperation mit  
+[Jugendamt Neukölln](http://www.neukoelln-jugend.de/redsys/index.php)  
+Jugendamt Charlottenburg-Wilmersdorf  
+Jugendamt Friedrichshain-Kreuzberg  
+Jugendamt Reinickendorf  
+[Demokratie in der Mitte](http://demokratie-in-der-mitte.de/)  
+[Sozialpädagogisches Fortbildungsinstitut Berlin-Brandenburg](https://sfbb.berlin-brandenburg.de)  
+[Dissens – Institut für Bildung und Forschung e.V.](https://www.dissens.de/)  
