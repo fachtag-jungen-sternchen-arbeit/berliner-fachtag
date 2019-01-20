@@ -21,3 +21,13 @@
   url: "http://demokratie-in-der-mitte.de/"
   class: "sitemap-link"
   title: "Partnerschaften für Demokratie in Wedding und Moabit"
+
+- name: "Sozialpädagogisches Fortbildungsinstitut Berlin-Brandenburg"
+  url: "https://sfbb.berlin-brandenburg.de"
+  class: "sitemap-link"
+  title: "Sozialpädagogisches Fortbildungsinstitut Berlin-Brandenburg"
+  
+- name: "Dissens – Institut für Bildung und Forschung e.V."
+  url: "https://www.dissens.de/"
+  class: "sitemap-link"
+  title: "Dissens – Institut für Bildung und Forschung e.V."
