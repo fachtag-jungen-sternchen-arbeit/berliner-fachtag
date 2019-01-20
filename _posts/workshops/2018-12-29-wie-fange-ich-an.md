@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Workshop 1: Einsteiger&#42;innen „Wie fange ich an“"
-subheadline:  "Peter Bienwald, LFS Jungen*arbeit Sachsen"
+subheadline:  'Peter Bienwald, <a href="https://www.juma-sachsen.de/landesfachstelle-jungenarbeit/unsere-arbeit/">LFS Jungen*arbeit Sachsen</a>'
 teaser: "Was brauche ich, um erste Schritte einer geschlechterreflektierenden
 Arbeit mit Jungen* zu gehen? Im Workshop widmen wir uns ausgewählten Methoden der Jungen*arbeit, die Jungen* ins Gespräch über
 Männlichkeiten bringen. Sie erhalten Anregungen, um eigene Zugänge
