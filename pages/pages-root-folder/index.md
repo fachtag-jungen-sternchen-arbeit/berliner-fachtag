@@ -23,7 +23,7 @@ widget3:
   image: widget3.jpg
   text: 'Bitte melden Sie sich über das Anmeldeformular an.<br>
   <a href="https://goo.gl/forms/RwSkBJOwdzDOQY943">https://goo.gl/forms/RwSkBJOwdzDOQY943</a><br>
-  Der Teilnehmer\*innenbeitrag in Höhe von 10 &euro; ist bei Veranstaltungsbeginn zu entrichten.<br>
+  Der Teilnehmer&#42;innenbeitrag in Höhe von 10 &euro; ist bei Veranstaltungsbeginn zu entrichten.<br>
   Anmeldeschluß ist der 15. Februar 2019<br>'
 
 permalink: /index.html
