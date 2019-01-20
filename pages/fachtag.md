@@ -11,6 +11,7 @@ permalink: "/fachtag/"
 Mecklenburgische Str. 15, 10713 Berlin  
 
 Eine Veranstaltung der [Berliner Fachrunde Jungen\*arbeit](/berliner-fachtag2019/fachrunde) in Kooperation mit  
+
 [Jugendamt Neukölln](http://www.neukoelln-jugend.de/redsys/index.php)  
 Jugendamt Charlottenburg-Wilmersdorf  
 Jugendamt Friedrichshain-Kreuzberg  
