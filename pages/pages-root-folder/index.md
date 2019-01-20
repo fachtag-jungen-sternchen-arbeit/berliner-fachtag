@@ -11,7 +11,8 @@ widget1:
   url: 'https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/fachtag/'
   text: '<strong>Wann:</strong> 27. März 2019, 10:00 Uhr – 16:30 Uhr<br>
 <strong>Wo:</strong> Haus der Jugend Anne Frank<br>
-Mecklenburgische Str. 15, 10713 Berlin'
+Mecklenburgische Str. 15, 10713 Berlin<br>
+Eine Veranstaltung der <a href="https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/fachrunde/">Berliner Fachrunde Jungen&#42;arbeit</a>'
 widget2:
   title: "Programm"
   url: 'https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/programm/'
