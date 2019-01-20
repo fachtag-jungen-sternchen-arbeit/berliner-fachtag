@@ -5,6 +5,10 @@
 - title: Fachtag
   url: "/fachtag/"
   side: left
+  
+- title: Fachrunde
+  url: "/fachrunde/"
+  side: left
 
 - title: Programm
   url: "/programm/"
