@@ -16,13 +16,10 @@ widget2:
   text: Unsere Arbeit findet in Arbeitskreisen in den Bezirken statt. Hier finden Sie die Ansprechpartner&#42;innen.
   image: widget2.jpg
 widget3:
-  title: "Anmeldung"
-  url: 'https://jungen-sternchen-arbeit.github.io/berlin/anmeldung/'
+  title: "Aktivitäten"
+  url: 'https://jungen-sternchen-arbeit.github.io/berlin/aktivitaeten/'
   image: widget3.jpg
-  text: 'Bitte melden Sie sich über das Anmeldeformular an.<br>
-  <a href="https://goo.gl/forms/RwSkBJOwdzDOQY943">https://goo.gl/forms/RwSkBJOwdzDOQY943</a><br>
-  Der Teilnehmer&#42;innenbeitrag in Höhe von 10 &euro; ist bei Veranstaltungsbeginn zu entrichten.<br>
-  Anmeldeschluß ist der 15. Februar 2019<br>'
+  text: Unsere bisherigen und geplanten Aktivitäten
 
 permalink: /index.html
 #
