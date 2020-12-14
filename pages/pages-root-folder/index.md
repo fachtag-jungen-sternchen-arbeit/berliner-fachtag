@@ -11,7 +11,7 @@ widget1:
   url: 'https://jungen-sternchen-arbeit.github.io/berlin/fachrunde/'
   text: In der Berliner Fachrunde Jungen&#42;arbeit arbeiten seit 2004 Vertreter&#42;innen der Bezirke Berlins und einiger Fachträger mit dem Ziel zusammen, geschlechterreflektierte Jungen&#42;arbeit in allen pädagogischen Feldern zu verankern und zur Qualitätssicherung beizutragen.
 widget2:
-  title: "Bezirkliche Ansprechpartner&#42;innen und Arbeitskreise"
+  title: "Bezirkliche Ansprechpartner&#42;&shy;innen und Arbeitskreise"
   url: 'https://jungen-sternchen-arbeit.github.io/berlin/bezirke/'
   text: Unsere Arbeit findet in Arbeitskreisen in den Bezirken statt. Hier finden Sie die Ansprechpartner&#42;innen.
   image: widget2.jpg
