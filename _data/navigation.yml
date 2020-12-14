@@ -2,16 +2,20 @@
   url: "/"
   side: left
   
-- title: Fachtag
-  url: "/fachtag/"
-  side: left
-  
 - title: Fachrunde
   url: "/fachrunde/"
   side: left
 
-- title: Programm
-  url: "/programm/"
+- title: bezirke
+  url: "/bezirke/"
+  side: left
+
+- title: "Aktivitäten"
+  url: "/aktivitaeten/"
+  side: left
+
+- title: Fachtag 2019
+  url: "/fachtag-2019/"
   side: left
 
 - title: "Workshops"
@@ -28,11 +32,3 @@
     url: "/workshops/flucht/"
   - title: "Berufsorientierung"
     url: "/workshops/berufsorientierung/"
-
-- title: "Anmeldung"
-  url: "/anmeldung/"
-  side: left
-
-- title: "Kontakt"
-  url: "/kontakt/"
-  side: right

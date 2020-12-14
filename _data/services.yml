@@ -1,7 +1,7 @@
 - menu_name: "Services"
 
 - name: "Kontakt"
-  url: "/kontakt/"
+  url: "/bezirke/"
   title: "Kontakt"
 
 - name: "RSS"

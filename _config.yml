@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Fachtag geschlechterreflektierte Jungen*arbeit'
+title: 'Geschlechterreflektierte Jungen*arbeit Berlin'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Berlin 2019'
+slogan: 'Geschlechterreflektierte Jungen*arbeit Berlin'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Hier stellen wir uns, die Berliner Fachrunde Jungen*arbeit, vor.'
@@ -30,7 +30,7 @@ baseurl: '/berlin'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://fachtag-jungen-sternchen-arbeit.github.io/berliner-fachtag/edit/gh-pages
+improve_content: https://jungen-sternchen-arbeit.github.io/berlin/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -205,7 +205,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: berlinerfachtag2019
+disqus_shortname: berlin
 
 
 #      _____
