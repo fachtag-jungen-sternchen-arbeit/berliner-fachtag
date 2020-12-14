@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "jungensternchentag2020.png"
+  image_fullwidth: "jungensternchentag2020.jpg"
 widget1:
   title: "Berliner Fachrunde Jungen&#42;arbeit"
   image: widget1.jpg
