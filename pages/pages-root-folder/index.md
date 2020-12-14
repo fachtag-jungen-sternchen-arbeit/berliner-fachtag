@@ -5,6 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+header:
+  image_fullwidth: "jungensternchentag2020.png"
 widget1:
   title: "Berliner Fachrunde Jungen&#42;arbeit"
   image: widget1.jpg
