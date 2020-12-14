@@ -17,11 +17,11 @@ Peter Bienwald, [Landesfachstelle Jungen\*arbeit Sachsen](https://www.juma-sachs
 Bettina Lutze-Luis Fernández, Leiterin des [Centre Talma](http://www.centre-talma.de)  
 Tobias Holk, [Berliner Jungs](http://www.jungen-netz.de) / [„Blueberry Inn“](http://outreach6.spinnenwerk.de/~outreach0815/teams/blueberry-inn.html)
 
-<span style="color:#009F9B">**12:15 – 12:30 Uhr**</span> **[Workshop-Vorstellung](/berliner-fachtag2019/workshops)**
+<span style="color:#009F9B">**12:15 – 12:30 Uhr**</span> **[Workshop-Vorstellung](/berlin/workshops)**
 
 <span style="color:#009F9B">**12:30 – 13:30 Uhr**</span> **Mittagspause**
 
-<span style="color:#009F9B">**13:30 – 15:30 Uhr**</span> **[Workshops](/berliner-fachtag2019/workshops)**  
+<span style="color:#009F9B">**13:30 – 15:30 Uhr**</span> **[Workshops](/berlin/workshops)**
 
 <span style="color:#009F9B">**15:30 – 15:45 Uhr**</span> **Kaffeepause**
 

@@ -8,19 +8,19 @@ layout: frontpage
 widget1:
   title: "4. Berliner Fachtag geschlechterreflektierter Jungen&#42;arbeit"
   image: widget1.jpg
-  url: 'https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/fachtag/'
-  text: 'Eine Veranstaltung der <a href="https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/fachrunde/">Berliner Fachrunde Jungen&#42;arbeit</a><br>
+  url: 'https://jungen-sternchen-arbeit.github.io/berlin/fachtag/'
+  text: 'Eine Veranstaltung der <a href="https://jungen-sternchen-arbeit.github.io/berlin/fachrunde/">Berliner Fachrunde Jungen&#42;arbeit</a><br>
 <strong>Wann:</strong> 27. März 2019, 10:00 Uhr – 16:30 Uhr<br>
 <strong>Wo:</strong> Haus der Jugend Anne Frank<br>
 Mecklenburgische Str. 15, 10713 Berlin<br>'
 widget2:
   title: "Programm"
-  url: 'https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/programm/'
-  text: 'Hier gehts zum geplanten <a href="https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/programm/">Programm</a>  und den <a href="https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/workshops/">Workshops</a>'
+  url: 'https://jungen-sternchen-arbeit.github.io/berlin/programm/'
+  text: 'Hier gehts zum geplanten <a href="https://jungen-sternchen-arbeit.github.io/berlin/programm/">Programm</a>  und den <a href="https://jungen-sternchen-arbeit.github.io/berlin/workshops/">Workshops</a>'
   image: widget2.jpg
 widget3:
   title: "Anmeldung"
-  url: 'https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/anmeldung/'
+  url: 'https://jungen-sternchen-arbeit.github.io/berlin/anmeldung/'
   image: widget3.jpg
   text: 'Bitte melden Sie sich über das Anmeldeformular an.<br>
   <a href="https://goo.gl/forms/RwSkBJOwdzDOQY943">https://goo.gl/forms/RwSkBJOwdzDOQY943</a><br>

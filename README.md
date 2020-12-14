@@ -1,1 +1,1 @@
-Dies ist der Code für die Website des Berliner Fachtags geschlechterreflektierte Jungenarbeit 2019. Wir benutzen als Grundlage das Open-Source Projekt https://phlow.github.io/feeling-responsive/. Die Website ist unter https://jungen-sternchen-arbeit.github.io/berliner-fachtag2019/ zu finden.
+Dies ist der Code für die Website des Berliner Fachtags geschlechterreflektierte Jungenarbeit 2019. Wir benutzen als Grundlage das Open-Source Projekt https://phlow.github.io/feeling-responsive/. Die Website ist unter https://jungen-sternchen-arbeit.github.io/berlin/ zu finden.
