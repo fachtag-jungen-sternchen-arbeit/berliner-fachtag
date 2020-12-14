@@ -1,4 +1,4 @@
-- menu_name: "Dankeschön"
+- menu_name: "Links"
 
 - name: "Jugendamt Neukölln"
   url: "http://www.neukoelln-jugend.de/redsys/index.php"
@@ -32,3 +32,13 @@
   url: "https://www.dissens.de/"
   class: "sitemap-link"
   title: "Dissens – Institut für Bildung und Forschung e.V."
+
+- name: "Berliner Jungs&#42;"
+  url: "https://jungs.berlin/"
+  class: "sitemap-link"
+  title: "Berliner Jungs&#42;"
+
+- name: "Heroes"
+  url: "https://www.heroes-net.de/"
+  class: "sitemap-link"
+  title: "Heroes"
