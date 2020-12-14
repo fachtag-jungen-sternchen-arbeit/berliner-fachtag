@@ -17,18 +17,3 @@
 - title: Fachtag 2019
   url: "/fachtag-2019/"
   side: left
-
-- title: "Workshops"
-  url: "/workshops/"
-  side: left
-  dropdown:
-  - title: "Einstieg"
-    url: "/workshops/wie-fange-ich-an/"
-  - title: "Sport"
-    url: "/workshops/sport/"
-  - title: "Vielfalt"
-    url: "/workshops/vielfalt/"
-  - title: "Geflüchtete"
-    url: "/workshops/flucht/"
-  - title: "Berufsorientierung"
-    url: "/workshops/berufsorientierung/"
