@@ -4,7 +4,7 @@ show_meta: false
 title: "4. Berliner Fachtag geschlechterreflektierter Jungen&#42;arbeit 2019"
 subheadline: "Infos"
 teaser: "Ort und Zeit"
-permalink: "/fachtag-2019/"
+permalink: "/aktivitaeten/fachtag-2019/"
 ---
 **Wann:** 27. März 2019, 10:00 Uhr – 16:30 Uhr  
 **Wo:** Haus der Jugend Anne Frank  

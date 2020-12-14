@@ -13,7 +13,7 @@
 - title: "Aktivitäten"
   url: "/aktivitaeten/"
   side: left
-
-- title: Fachtag 2019
-  url: "/fachtag-2019/"
-  side: left
+  dropdown:
+  - title: Fachtag 2019
+    url: "/aktivitaeten/fachtag-2019/"
+    side: left
